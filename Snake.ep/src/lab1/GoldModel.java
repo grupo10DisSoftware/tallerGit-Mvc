@@ -59,8 +59,8 @@ public class GoldModel extends GameModel {
 			0),
 			new Color(0, 255, 0), 2.0);
         //taller1 3.a.i
-	
-			
+
+				
 	/** Graphical representation of the collector */
 	private static final GameTile COLLECTOR_TILE = new RoundTile(Color.BLACK,
 			Color.RED, 2.0);
